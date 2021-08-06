@@ -1,0 +1,59 @@
+body{
+    background-image: url("../imagenes/fondohd.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: black;
+}
+
+.contenedorform {
+    position: absolute;
+    left: 30vw;
+    right: 30vw;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(0, 205, 219);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    opacity: 0.9;
+}
+
+.form-group{
+
+    opacity: 1;
+}
+
+.butt{
+    opacity: 1;
+}
+.usuarioLog{
+    color: beige;
+}
+
+.ima{
+    margin: auto;
+}
+
+.colu{
+    text-align: center;
+}
+
+.table{
+    text-align: center;
+}
+
+.conte{
+    text-align: center;
+    position: absolute;
+    left: 40vw;
+    right: 40vw;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(0, 205, 219);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    opacity: 0.9;
+}
